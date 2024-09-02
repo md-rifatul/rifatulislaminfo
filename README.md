@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Competitive Programming, Web Development**
 
-- 📫 How to reach me **hey.rifatul@gmail.com**
+- 📫 How to reach me **rifatul.ism@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
